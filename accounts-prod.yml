@@ -1,0 +1,9 @@
+
+accounts:
+  message: "Welcome to EazyBank Accounts Service PROD API"
+  contactDetails:
+    email: "accounts_api_prod@example.com"
+    name: "Accounts PROD Service Developer"
+  onCallSupport:
+    - (555) 123-4567
+    - (555) 123-4568

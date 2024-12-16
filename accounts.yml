@@ -1,0 +1,8 @@
+accounts:
+  message: "Welcome to EazyBank Accounts Service API"
+  contactDetails:
+    email: "accounts_api@example.com"
+    name: "Accounts Service Developer"
+  onCallSupport:
+    - (555) 123-4567
+    - (555) 123-4568

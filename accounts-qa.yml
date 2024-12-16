@@ -1,0 +1,8 @@
+accounts:
+  message: "Welcome to EazyBank Accounts Service QA API"
+  contactDetails:
+    email: "accounts_api_qa@example.com"
+    name: "Accounts QA Service Developer"
+  onCallSupport:
+    - (555) 123-4567
+    - (555) 123-4568

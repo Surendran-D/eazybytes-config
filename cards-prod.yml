@@ -1,0 +1,9 @@
+
+cards:
+  message: "Welcome to EazyBank Cards Service PROD13 API"
+  contactDetails:
+    email: "cards_api_prod@example.com"
+    name: "Cards prod Service Developer"
+  onCallSupport:
+    - (555) 123-4567
+    - (555) 123-4568

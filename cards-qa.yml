@@ -1,0 +1,9 @@
+
+cards:
+  message: "Welcome to EazyBank Cards Service QA API"
+  contactDetails:
+    email: "cards_api_qa@example.com"
+    name: "Cards qa Service Developer"
+  onCallSupport:
+    - (555) 123-4567
+    - (555) 123-4568

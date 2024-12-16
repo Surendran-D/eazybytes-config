@@ -1,0 +1,9 @@
+
+cards:
+  message: "Welcome to EazyBank Cards Service  API"
+  contactDetails:
+    email: "cards_api_@example.com"
+    name: "Cards Service Developer"
+  onCallSupport:
+    - (555) 123-4567
+    - (555) 123-4568
